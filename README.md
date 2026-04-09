@@ -7,6 +7,6 @@ Celem projektu jest statystyczna analiza danych filmowych ze zbioru TMDB w celu 
 ## Opis elementów repozytorium
 * **data/**: Folder zawierający surowe dane w formacie CSV (tmdb_5000_movies.csv).
 * **code/**: Skrypty w języku Python / Jupyter Notebooks przeprowadzające proces czyszczenia i analizy danych.
-* **reports/**: Dokumentacja projektu, w tym raport końcowy na Etap 2 oraz wizualizacje (wykresy).
+* **raport/**: Dokumentacja projektu, w tym raport końcowy na Etap 2 oraz wizualizacje (wykresy).
 * **.gitignore**: Plik konfiguracyjny pomijający zbędne pliki systemowe i tymczasowe środowiska Python.
 * **README.md**: Niniejszy plik z opisem projektu i strukturą plików.
