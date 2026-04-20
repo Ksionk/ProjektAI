@@ -18,8 +18,11 @@ P2. Drugi etap projektu, 78417 Oskar Mitek
 ===WKLAD=== 
 
 ID, Nazwisko, Imie: Krótki opis wkładu każdego studenta do grupowego projektu na tym etapie. 
+
 71903, Barej, Jakub: Kierownik inżynier projektu. Odpowiedzialny za sformułowanie celów badania, nadzór nad analizą korelacji Pearsona oraz opracowanie końcowych wniosków dotyczących zjawiska Blockbusterów.
+
 73001, Skuza, Szymon: Młodszy asystent. Odpowiedzialny za proces czyszczenia danych, w tym filtrację rekordów zerowych (budżet/przychód 0 USD) oraz przygotowanie danych do normalizacji statystycznej.
+
 78417 Oskar Mitek: Dokumentalista projektu. Odpowiedzialny za opracowanie dokumentacji technicznej Etapu 2 oraz przygotowanie i sformatowanie pliku README zgodnie z wymaganiami.
 
 
