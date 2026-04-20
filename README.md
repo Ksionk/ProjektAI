@@ -7,9 +7,13 @@ Opis: Projekt analityczny badający fundamenty branży filmowej pod kątem korel
 ===GRUPA=== 
 
 Lab grupa, ID, Nazwisko, Imie 
+
 P2. Drugi etap projektu, 71903, Barej, Jakub 
+
 P2. Drugi etap projektu, 73001, Skuza, Szymon 
+
 P2. Drugi etap projektu, 78417 Oskar Mitek
+
 
 ===WKLAD=== 
 
