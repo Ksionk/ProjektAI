@@ -64,3 +64,14 @@ Main libraries: torch==2.9.1, torchvision==0.24.1, nltk==3.9.1, numpy==2.0.2
 |--- .gitignore  
 |--- tmdb_5000_movies.csv
 |--- analiza.py
+
+## Instrukcja uruchomienia kodu (Etap 4)
+Aby zreprodukować wyniki klasyfikacji opisów filmów za pomocą modelu DistilBERT:
+1. Pobierz repozytorium na dysk lokalny lub środowisko Google Colab.
+2. Upewnij się, że plik `tmdb_5000_movies.csv` znajduje się w głównym folderze roboczym.
+3. Zainstaluj wymagane biblioteki wirtualnego środowiska: 
+   `pip install pandas torch transformers scikit-learn`
+4. Uruchom skrypt analityczny:
+   `python main.py`
+
+Po uruchomieniu, skrypt pobierze wagi modelu bazowego, przetrenuje go na opisach filmów i wygeneruje przewidywania dla przykładowego tekstu testowego w konsoli.
